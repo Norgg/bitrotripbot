@@ -14,7 +14,6 @@ rip = [
     u"Technicality",
     u"hatbot",
     u"Parenthesie",
-    u"Unibot",
 ]
 
 missed = [
