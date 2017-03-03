@@ -11,6 +11,10 @@ rip = [
     u"SpaceCore",
     u"FactSphere",
     u"AdventureSphere",
+    u"Technicality",
+    u"hatbot",
+    u"Parenthesie",
+    u"Unibot",
 ]
 
 missed = [
