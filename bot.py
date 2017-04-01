@@ -15,6 +15,8 @@ rip = [
     u"hatbot",
     u"DMPBot",
     u"Malcolm",
+    u"ruibot",
+    u"PhotonBot",
 ]
 
 missed = [
@@ -22,7 +24,7 @@ missed = [
     u"we will remember you.",
     u"you were faithful 'til the end.",
     u"sleep well.",
-    u"you are where good bots go."
+    u"you are where good bots go.",
 ]
 
 nick = u'bitrotripbot'
